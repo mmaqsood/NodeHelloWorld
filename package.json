@@ -1,0 +1,20 @@
+{
+  "name": "mujahidhellotest",
+  "version": "1.0.0",
+  "description": "Creates a server that will output HelloWorld.",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmaqsood/NodeHelloWorld"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "node"
+  ],
+  "author": "Mujahid Maqsood",
+  "license": "GIT"
+}
